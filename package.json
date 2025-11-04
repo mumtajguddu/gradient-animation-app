@@ -13,6 +13,7 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
+<<<<<<< HEAD
     "gsap": "^3.12.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -20,6 +21,15 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
+=======
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "gsap": "^3.12.2",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+>>>>>>> 9d24fdf7ef600dc49f99f98d394768cb552b3f5e
   },
   "browserslist": {
     "production": [
